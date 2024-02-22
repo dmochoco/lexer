@@ -1,2 +1,0 @@
-class output "This is a string"
-end
