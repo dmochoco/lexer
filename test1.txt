@@ -1,2 +1,0 @@
-class myIdentifier; // semicolons are not in the grammar
-end
