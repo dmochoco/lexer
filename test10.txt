@@ -1,8 +1,0 @@
-number = 17;
-
-if (number mod 2 = 0)
-alert "It's an even number!" // Display if the number is even
-elseif (number / 2 = 1)
-alert "It's an odd number!" // Display if the number is odd
-else
-alert "How did you get here!"
