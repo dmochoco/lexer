@@ -1,9 +1,0 @@
-/* This is a
-block comment */
-create boolean: isSunny equals true // Set weather condition
-
-if (isSunny = true)
-alert "It's a sunny day!" // Display if the weather is sunny
-else
-alert "It's not sunny today." // Display if the weather is not sunny
-}
