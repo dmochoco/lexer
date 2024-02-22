@@ -1,9 +1,0 @@
-class hello_quorum
-create greeting = "Hello, Quorum!" // Set a greeting
-output greeting // Output the greeting message
-// I am going to create a string
-"This is a finished string"
-// I am now going to create an unfinished string
-"Unfinished String
-
-end
