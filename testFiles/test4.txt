@@ -1,0 +1,9 @@
+create variable: radius = 5;  // Declare and initialize a variable for the radius
+create variable: PI = 3.14;   // Declare and initialize a variable for PI
+create variable: area;        // Declare a variable for the area
+
+// Calculate the area of a circle
+area = PI * radius * radius;
+
+// Output the result
+output "The area of the circle with radius " + radius + " is: " + area;
