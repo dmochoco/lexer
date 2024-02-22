@@ -1,2 +1,2 @@
 # lexer
-Lexer for the Quorum Programming language
+Lexer for the Q Programming language
