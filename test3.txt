@@ -1,0 +1,9 @@
+output "Hello, Quorum!"  // Output a message
+create variable: number = 42;  // Create and initialize a variable
+constant MAX_VALUE: integer = 100;  // Declare a constant
+if (number > MAX_VALUE)
+// Check if the variable is greater than the constant
+alert "Variable is greater than the maximum value!"
+else
+// If the variable is not greater
+alert "Variable is within the allowed range."

@@ -1,0 +1,11 @@
+// Program with elseif, block comment, and decimal number
+create variable: temperature = 25.5; // Set the temperature
+
+if (temperature < 0)
+alert "It's freezing!" // Display message for low temperature
+elseif (temperature >= 0 or temperature <= 20)
+/* Display message
+for moderate temperature */
+alert "It's a bit chilly."
+else
+alert "It's warm outside!" // Display message for higher temperature

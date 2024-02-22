@@ -1,0 +1,2 @@
+static CONSTANT_VALUE: integer = 42 // Declare a static constant
+output "The constant value is: " + CONSTANT_VALUE // Output the constant value
